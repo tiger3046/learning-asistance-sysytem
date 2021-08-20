@@ -1,6 +1,6 @@
 # learning-asistance-sysytem
 
-![デモ動画](GPA パケ.mp4)
+![]()
 
 <h3>リポジトリの概要</h3>
 本システムは、Raspberry Pi 及びRaspberry Piカメラを使用し撮影された利用者が学習しているかどうかを判定し、利用者のLINEに通知するシステムです。
