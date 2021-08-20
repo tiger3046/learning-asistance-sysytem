@@ -1,5 +1,5 @@
 # learning-asistance-sysytem
-リポジトリの概要
+<h1>リポジトリの概要</h1>
 本システムは、Raspberry Pi 及びRaspberry Piカメラを使用し撮影された利用者が学習しているかどうかを判定し、利用者のLINEに通知するシステムです。
 以下はファイルの概要です。
 learning assistance system.py は画像判定及びLINEによる通知を行うメインシステムです。
